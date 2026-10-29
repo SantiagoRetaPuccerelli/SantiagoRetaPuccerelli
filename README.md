@@ -1,109 +1,28 @@
-<div align="center">
+Santiago Reta Puccerelli
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · santiagoretapuccerelli</sub></p>
-<h1>Santiago_Reta_Puccerelli</h1>
-<h2>Product-minded developer</h2>
-<p>Building useful software and sharing the work in public.</p>
-<p><strong>● Building and sharing work in public</strong></p>
+Computer Science student at Universidad Nacional del Sur (Argentina), graduating in 2027. I build web applications and backend systems, and I'm moving into AI engineering: machine learning, RAG and agents.
 
-<p><a href="https://github.com/santiagoretapuccerelli">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/142461566?u=e81e8c5f8dbd11b68409a6a846ecfe06b8be1505&amp;v=4" width="180" alt="Santiago_Reta_Puccerelli GitHub avatar" />
-</td>
-</tr>
-</table>
-</div>
+Looking for: junior backend, fullstack or AI engineering roles. Remote (full-time) or on-site in Bahía Blanca (part-time).
 
-<h2>What teams can evaluate quickly</h2>
+LinkedIn · Bahía Blanca, Argentina
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Product-minded developer</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>1 repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>28 contributions · 14 active days</p></td>
-</tr>
-</table>
+Work in production:
 
-<p><sub>Building useful software and sharing the work in public.</sub></p>
+GO! Educación — Moodle campus Deployed and configured Moodle on a Linux VPS over SSH, set up the MariaDB database, and trained every teacher on the platform. Used by about 10 teachers and 250 students; course material that used to circulate on WhatsApp now lives in one place.
 
-<h2>Proof at a glance</h2>
+Instituto GO! — website Designed and hand-coded the institute's website from scratch in HTML5 and CSS3, replacing a site that no longer worked. In production since 2025.
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>1</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>28</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>1</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
+UNS Career Fair website (Muestra de Carreras) Built the website for the university's career fair. <!-- Add the link here -->
+Selected projects
+<!-- Add each project here once it has a README and a live demo: - **[Project name](link to repo)** — one line on the problem it solves · stack · [demo](link) -->
+Teaching
+Teaching assistant in Formal Languages and Automata (ranked 1st in the 2025 selection) and Programming Technology
+Student tutor at the Computer Science department (DCIC-UNS), helping students plan and navigate their degree
+Vice president of the Computer Science student union (CECOM) for two years
+Tech stack
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=santiagoretapuccerelli&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F142461566%3Fu%3De81e8c5f8dbd11b68409a6a846ecfe06b8be1505%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=santiagoretapuccerelli&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F142461566%3Fu%3De81e8c5f8dbd11b68409a6a846ecfe06b8be1505%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Santiago_Reta_Puccerelli GitHub proof metrics" />
-</picture>
-</p>
+Languages: Python, Java, TypeScript, JavaScript, Kotlin, C, SQL, Prolog Web: Angular, HTML5, CSS3 Infrastructure and tools: Linux, Docker, Git, SSH and VPS administration, MariaDB
 
-<h2>Selected work</h2>
+Currently learning
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=santiagoretapuccerelli&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F142461566%3Fu%3De81e8c5f8dbd11b68409a6a846ecfe06b8be1505%26v%3D4&repos=santiagoretapuccerelli%2FProyectoLenguajesFormales&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=santiagoretapuccerelli&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F142461566%3Fu%3De81e8c5f8dbd11b68409a6a846ecfe06b8be1505%26v%3D4&repos=santiagoretapuccerelli%2FProyectoLenguajesFormales&v=recruiter-projects-1&mode=dark" width="100%" alt="Santiago_Reta_Puccerelli selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/SantiagoRetaPuccerelli/ProyectoLenguajesFormales">ProyectoLenguajesFormales</a></h3>
-<p>A selected public project.</p>
-<p><sub>⭐ 0 · 🍴 0</sub></p>
-<p><a href="https://github.com/SantiagoRetaPuccerelli/ProyectoLenguajesFormales">Read the repository →</a></p>
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-
-</tr>
-</table>
-
-<h2>Technical toolkit</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=santiagoretapuccerelli&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F142461566%3Fu%3De81e8c5f8dbd11b68409a6a846ecfe06b8be1505%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=santiagoretapuccerelli&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F142461566%3Fu%3De81e8c5f8dbd11b68409a6a846ecfe06b8be1505%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Santiago_Reta_Puccerelli technology stack" />
-</picture>
-</p>
-
-<table width="100%">
-<tr>
-<td width="100%" align="center"><sub>Language data will appear as public repositories are indexed.</sub></td>
-</tr>
-</table>
-
-<h2>Consistency signal</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=santiagoretapuccerelli&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F142461566%3Fu%3De81e8c5f8dbd11b68409a6a846ecfe06b8be1505%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=santiagoretapuccerelli&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F142461566%3Fu%3De81e8c5f8dbd11b68409a6a846ecfe06b8be1505%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Santiago_Reta_Puccerelli contribution activity" />
-</picture>
-</p>
-
-<hr />
-
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/santiagoretapuccerelli">GitHub</a></td>
-</tr>
-</table>
-
-<p align="center"><sub>Santiago_Reta_Puccerelli · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+Machine learning (Stanford and DeepLearning.AI specialization), backend architecture and cloud deployment.
