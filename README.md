@@ -25,12 +25,14 @@ Computer Science student at Universidad Nacional del Sur (Argentina), graduating
 <td width="45%"><a href="https://goeducacion.com.ar"><img src="goeducacion.png" alt="GO! Educación Moodle campus"/></a></td>
 <td>
 <b>GO! Educación · Moodle campus</b><br/><br/>
-Deployed and configured Moodle on a Linux VPS over SSH, set up the MariaDB database, and trained every teacher on the platform.<br/><br/>
+Chose the platform, deployed Moodle on a Linux VPS behind Cloudflare, set up the MariaDB database and planned it for 500 concurrent users. Trained every teacher on the platform.<br/><br/>
 <b>Used by about 250 students and 10 teachers.</b> Course material that used to circulate on WhatsApp now lives in one place.<br/><br/>
 <img src="https://img.shields.io/badge/Moodle-F98012?style=flat-square&logo=moodle&logoColor=white" alt="Moodle"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB"/><br/><br/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/><br/><br/>
 <a href="https://goeducacion.com.ar"><img src="https://img.shields.io/badge/Live-goeducacion.com.ar-2563EB?style=flat-square" alt="Live site"/></a>
+<a href="https://github.com/SantiagoRetaPuccerelli/go-campus-case-study"><img src="https://img.shields.io/badge/Case%20study-read-181717?style=flat-square&logo=github" alt="Case study"/></a>
 </td>
 </tr>
 <tr>
@@ -46,18 +48,20 @@ Designed and hand-coded the institute's website from scratch, replacing a site t
 </td>
 </tr>
 <tr>
-<td width="45%"><img src="muestra.png" alt="UNS Career Fair website"/></td>
+<td width="45%"><a href="https://cs.uns.edu.ar/~mll/web/mic/index.html"><img src="muestra.png" alt="UNS virtual career fair website"/></a></td>
 <td>
-<b>UNS Career Fair · Website</b><br/><br/>
-Built the website for the university's career fair (Muestra de Carreras).<br/><br/>
-<!-- Add the stack badges, the live link and the code link here -->
+<b>UNS Virtual Career Fair · Website</b><br/><br/>
+Built with Ignacio Cordiglia for the Computer Science department (DCIC). Presents the department's four degrees, student tutoring and the student union to prospective students.<br/><br/>
+<b>Official department site, live since 2026.</b><br/><br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/><br/><br/>
+<a href="https://cs.uns.edu.ar/~mll/web/mic/index.html"><img src="https://img.shields.io/badge/Live-cs.uns.edu.ar-2563EB?style=flat-square" alt="Live site"/></a>
+<!-- When the repo is public, add: <a href="LINK TO REPO"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github" alt="Code"/></a> -->
 </td>
 </tr>
 </table>
 
-## Selected projects
-
-<!-- Add each project here once it has a README and a live demo:
+<!-- Add a "## Selected projects" section here once the first project has a README and a live demo:
 - **[Project name](link to repo)** — one line on the problem it solves · stack · [demo](link)
 -->
 
@@ -83,6 +87,7 @@ Built the website for the university's career fair (Muestra de Carreras).<br/><b
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
 <img src="https://img.shields.io/badge/SSH%20%26%20VPS-4B5563?style=flat-square&logo=gnubash&logoColor=white" alt="SSH and VPS administration"/>
 
 ## Teaching
